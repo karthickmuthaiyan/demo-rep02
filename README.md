@@ -12,3 +12,5 @@ git push -u origin main
 Some data
 
 # Test message body during commit
+
+# Add line to test commit rebase
